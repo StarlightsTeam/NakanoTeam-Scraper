@@ -6,6 +6,7 @@
 
 
 
+
 <p align="center">
   <a href="https://github.com/NakanoTeam"><img title="Desarrollador 1" src="https://img.shields.io/badge/Desarrollador 1-KrizDavid Fdz-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
