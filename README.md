@@ -4,7 +4,7 @@
   <img src="https://telegra.ph/file/b2d837961d3da24b674c3.jpg" alt="NakanoTeam/Scraper" width="170" />
 </div>
 
-##Dueños
+#Dueños
 
 <p align="center">
   <a href="https://github.com/NakanoTeam"><img title="Desarrollador 1" src="https://img.shields.io/badge/Desarrollador 1-KrizDavid Fdz-red.svg?style=for-the-badge&logo=github" /></a>
