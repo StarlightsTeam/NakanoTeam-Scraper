@@ -27,7 +27,9 @@
   <a href="https://github.com/NakanoTeam"><img title="Desarrollador 5" src="https://img.shields.io/badge/Desarrollador 5-Joel Javascript-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/NakanoTeam"><img title="Desarrollador 6" src="https://img.shields.io/badge/Desarrollador 6-Pedro Az-black.svg?style=for-the-badge&logo=github" /></a>
+</p>
 
 ## ```Uso```
 ```js
