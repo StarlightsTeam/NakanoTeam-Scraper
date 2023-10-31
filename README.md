@@ -32,9 +32,11 @@ bash
 > npm i nakanoteam/scraper
 > npm uninstall nakanoteam/scraper
 
-## ```Downloader```
+## ```Uso```
 ```js
 const core = require('nakanoteam/scraper');
+
+## ```Descargas y otros```
 
 //Youtube
 let res = await core.yta('https://youtu.be/iFW6a1dAG-s');
