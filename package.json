@@ -1,0 +1,30 @@
+{
+  "name": "sockets_f4x",
+  "version": "1.8.2",
+  "description": "Hecho Por KrizDavidFdz",
+  "main": "index.js",
+  "scripts": {
+    "test": "..."
+  },
+  "keywords": [
+    "node-fetch",
+    "axios",
+    "cheerio"
+  ],
+  "author": "KrizDavidFdez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "api-dylux": "^1.6.2",
+    "@xct007/frieren-scraper": "github:xct007/frieren-scraper#main",
+    "@sasmeee/igdl": "npm:@sasmeee/igdl",
+    "file-type": "^17.1.1",
+    "spotifydl-x": "^0.3.5",
+    "node-fetch": "^3.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NakanoTeam/Ai-Hoshino.git"
+  }
+}
