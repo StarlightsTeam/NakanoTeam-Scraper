@@ -28,11 +28,6 @@
 </p>
 
 
-## Instalation :
-bash
-> npm i nakanoteam/scraper
-
-> npm uninstall nakanoteam/scraper
 
 ## ```Uso```
 ```js
