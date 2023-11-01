@@ -18,7 +18,7 @@ const ttstalk = require('./modules/tiktoks');
 const GoogleDrive = require('./modules/GoogleDrive');
 const igstory = require('./modules/igstory');
 const Spotifydl = require('./modules/spotifydl');
-const { ytv, yta } require('./modules/youtube');
+const { ytv, yta } = require('./modules/youtube');
 const xvideosdl = require('./modules/xvideosdl');
 
 module.exports = {
