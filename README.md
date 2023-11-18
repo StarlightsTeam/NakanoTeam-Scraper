@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NakanoTeam"><img title="Desarrollador 2" src="https://img.shields.io/badge/Desarrollador 2-Daniel-white.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/NakanoTeam"><img title="Desarrollador 2" src="https://img.shields.io/badge/Desarrollador 2-Daniel-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NakanoTeam"><img title="Desarrollador 4" src="https://img.shields.io/badge/Desarrollador 4-Uriel W-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/NakanoTeam"><img title="Desarrollador 4" src="https://img.shields.io/badge/Desarrollador 4-Uriel W-white.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
@@ -29,10 +29,6 @@
 
 <p align="center">
   <a href="https://github.com/NakanoTeam"><img title="Desarrollador 6" src="https://img.shields.io/badge/Desarrollador 6-Pedro Az-black.svg?style=for-the-badge&logo=github" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NakanoTeam"><img title="Desarrollador 7" src="https://img.shields.io/badge/Desarrollador 7-Im Buco-green.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 ## ```Uso```
