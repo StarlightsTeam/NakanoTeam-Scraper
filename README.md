@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NakanoTeam"><img title="Desarrollador 2" src="https://img.shields.io/badge/Desarrollador 2-Daniel-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/NakanoTeam"><img title="Desarrollador 2" src="https://img.shields.io/badge/Desarrollador 2-おDaniel-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
